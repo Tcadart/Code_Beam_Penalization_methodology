@@ -28,3 +28,6 @@ This Python project is dedicated to the study of lattice structures based on den
   - `Graph_penalization_coefficient.py`
   - `Graph_frequency.py`
   - `Graph_plasticity.py`
+
+
+This repository have been uploaded on [Zenodo](https://zenodo.org/records/11121367) with DOI : 10.5281/zenodo.11121367.

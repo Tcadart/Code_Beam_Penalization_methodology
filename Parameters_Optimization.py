@@ -27,7 +27,7 @@ import regionToolset
 import xyPlot
 from operator import add
 
-sys.path.insert(8, r"D:/travail_Abaqus/MicroMechanics_v1.18/MicroMechanics")
+sys.path.insert(8, r"PathToAddOn/MicroMechanics_v1.18/MicroMechanics")
 from microMechanics.mmpBackend import Interface
 from microMechanics.mmpBackend.mmpInterface.mmpRVEConstants import *
 from microMechanics.mmpBackend.mmpKernel.mmpLibrary import *

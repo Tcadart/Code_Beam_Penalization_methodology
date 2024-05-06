@@ -187,7 +187,7 @@ Lattice = [0]
 Option = [1]
 # Option = 0 => No option
 # Option = 1 => Data reduction
-ResultFile = "D:/Fichiers/70_Projet_1_Homogeneisation_Abaqus/abaqus_homogenization/Dossier_Resultats/"
+ResultFile = "PathToDirectory"
 
 #*******************************************************************************************************************
 #*******************************************************************************************************************
